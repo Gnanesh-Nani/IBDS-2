@@ -1,0 +1,6 @@
+CustomerID,Age,Subscribed,Balance,Label
+1,34,Yes,20000,Churn
+2,25,No,30000,Stay
+3,45,Yes,15000,Churn
+4,30,No,28000,Stay
+5,41,No,12000,Churn
