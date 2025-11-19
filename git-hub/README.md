@@ -1,3 +1,4 @@
+```
 # ============================
 # 1. CREATE LOCAL REPOSITORY
 # ============================
@@ -44,3 +45,4 @@ git remote -v
 git remote set-url origin https://github.com/USERNAME/REPO.git
 
 # D) If no permission → ask to be added as collaborator OR fork the repo
+```
