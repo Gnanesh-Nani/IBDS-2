@@ -1,0 +1,5 @@
+customer_id,name,join_date,purchase_amount
+1,Ravi,2024-01-12,500.0
+2,Megha,,700.0
+3,,2024-02-10,900.0
+4,John,2024-02-15,0.0
