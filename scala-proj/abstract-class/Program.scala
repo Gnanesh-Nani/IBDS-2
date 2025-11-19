@@ -57,4 +57,4 @@ object ShapeProgram {
 
 
 // To run the program, use the following command in the terminal:
-// scalac ShapeProgram.scala && scala ShapeProgram
+// scalac Program.scala && scala ShapeProgram
