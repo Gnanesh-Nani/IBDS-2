@@ -1,5 +1,3 @@
-#pip install pyspark
-
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
 import pyspark.sql.functions as F
@@ -25,3 +23,6 @@ result = df.withColumn(
 
 # Show top 10 rows
 result.show(10, truncate=False)
+
+# Stop Spark session
+spark.stop()
